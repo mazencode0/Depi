@@ -1,0 +1,8 @@
+Log transform:
+https://www.geeksforgeeks.org/data-science/log-transformation/
+
+Smote:
+https://www.geeksforgeeks.org/machine-learning/smote-for-imbalanced-classification-with-python/
+
+numpy:
+https://www.w3schools.com/python/numpy/numpy_intro.asp

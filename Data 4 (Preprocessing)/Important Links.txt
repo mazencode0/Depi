@@ -1,0 +1,9 @@
+make column transformer:
+https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_transformer.html
+
+Impute:
+https://scikit-learn.org/stable/api/sklearn.impute.html
+
+NLP Good Recourses on Youtube:
+https://www.youtube.com/watch?v=GhvH6TyyP_E&list=PLyhJeMedQd9Sra0zQp655r7yssu468fie
+https://www.youtube.com/@bakrianoo/playlists
